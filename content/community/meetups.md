@@ -53,6 +53,9 @@ permalink: community/meetups.html
 ## China {#china}
 * [Pekín](https://www.meetup.com/Beijing-ReactJS-Meetup/)
 
+## Chile {#chile}
+* [Santiago](https://www.meetup.com/es-ES/react-santiago/)
+
 ## Colombia {#colombia}
 * [Bogotá](https://www.meetup.com/meetup-group-iHIeHykY/)
 * [Medellín](https://www.meetup.com/React-Medellin/)
